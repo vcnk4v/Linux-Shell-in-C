@@ -1,0 +1,15 @@
+11clear
+proclore
+sleep 40 &
+activities
+fg 7274
+ls
+ls -a
+ls -al
+warp ..
+ls -al
+clear
+neonate -n 0.5
+neonate -n 0
+iMan ls
+iMan asf
